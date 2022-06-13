@@ -13,7 +13,7 @@ int main() {
 // Introducing variables and data types
 
 int main() {
-  string name = "Perry";    // string is a datatype used to output a string of characters 
+  std::string name = "Perry";    // string is a datatype used to output a string of characters 
   int age = 29;             // int is for integers, a whole number
   char firstIntial = 'p';   // char is for single letter output
   double floatNum = 12.34;  // double is used for floating point numbers, numbers with decimal places
@@ -34,7 +34,7 @@ int main() {
 
 // getting user input and displaying back to the user
 int main() {
-  string name;                                          // initialize name variable and leave blank
+  std::string name;                                          // initialize name variable and leave blank
   std::cout << "Please enter your name: ";              // output to console asking user to input their name
   std::cin >> name;                                     // listens to next line input by the user and assigns that value to the variable
   std::cout << "Your name is " << name << std::endl;    // outputs the name the user input 
