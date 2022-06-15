@@ -1,9 +1,17 @@
-Today will be spent building little programs to get some experience in C++ programming.
+# What I did today
 
-These programs will not be created using best practice or error handling etc and will be more designed work if used properly only.
+Today was spent on the following;
 
-The programs I have chosen to code today are, a random number generator, a program that determines whether a given integer is a multiple of 3 or 5 and the obviously required hello world program. The reasons I have chosen to code these specifically is as follows, 
+- Coded the obligatory Hello World as is a must when starting with a new language
+- Coded a random number generator that takes input from user and outputs accordingly
+- Coded a program to test if a number is divisible by 3 or 5
 
-Hello World -- This is the famous entry into learning any new language and as I am learning C++ for the first time I felt it had to be included.
-Random number generator -- Many programs I will be learning to create are going to use this such as a text RPG i will be making.
-Divisibility calculator -- learning how to manipulate integers in various ways opens up new ways to utilize programming when it comes to solving maths problems.
+## Why I chose them
+
+I chose these programs as they teach a few of the base principles used in many different types of programs. For 
+example many maths games use a random number generator to generate numbers used in the games. The divisibilty 
+calculator again can be used to check answers to math problems and also be adapted to check more more or less numbers.
+Hello world is a must have program under any aspiring coders belt as it teaches in my opinion the most fundamental rules of 
+programming.. 
+
+## Anyone can code
