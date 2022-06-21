@@ -12,3 +12,7 @@ I am not sure what it is but the do while loops I use spiral into an endless loo
 a string instead of an integer in this program. I tried various ways of having the program end if the 
 input it recieves does not match the format required but no joy, any assistance on that would be hugely
 appreciated.
+
+### Plan for the rest of the day
+
+I plan on carrying on with Sololearn for the day and pushing my knowledge of C++ just that bit further.
