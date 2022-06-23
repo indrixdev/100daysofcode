@@ -1,3 +1,10 @@
+/*
+    Fully aware that the newly created newAccount instance is only accessible within the if loop,
+    This has been done on purpose to demonstrate the use of Scope to define access to content
+*/
+
+
+
 #include <iostream>
 #include "BankAccount.h"
 
